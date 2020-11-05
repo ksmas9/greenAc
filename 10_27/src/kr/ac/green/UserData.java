@@ -1,0 +1,42 @@
+package kr.ac.green;
+
+import java.util.HashMap;
+
+public class UserData {
+	private String id;
+	private String pw;
+	private String pwRe;
+	private String name;
+	private String nickName;
+	
+	public String getId() {
+		return id;
+	}
+	public void setId(String id) {
+		this.id = id;
+	}
+	public String getPw() {
+		return pw;
+	}
+	public void setPw(String pw) {
+		this.pw = pw;
+	}
+	public String getPwRe() {
+		return pwRe;
+	}
+	public void setPwRe(String pwRe) {
+		this.pwRe = pwRe;
+	}
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	public String getNickName() {
+		return nickName;
+	}
+	public void setNickName(String nickName) {
+		this.nickName = nickName;
+	}	
+}

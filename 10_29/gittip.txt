@@ -1,0 +1,17 @@
+1. cd 디렉토리 이름 init 할 파일 찾아가기
+2. init 초기화
+3. ls -al 현상태 확인하기
+4. commit으로 파일 스냅하기
+5. git add로 파일 저장하기
+6. git remote add origin "자신의 깃 사이트"
+7. git push origin master로 자료보내기
+8. git status 로 상태확인
+9. git log로 기록확인
+
+i 입력하기
+: wq 나가기
+
+
+config로 아이디, 이름 설정하기
+
+git commit-m 간단한 메모
